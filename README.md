@@ -4,4 +4,4 @@
 - Mes réseaux :
 - [Twitter](https://twitter.com/ALTA_VII)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ALTAVII&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![ALTAVII's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALTAVII&show_icons=true&theme=tokyonight)](https://github.com/ALTAVII/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALTAVII&layout=compact&theme=tokyonight)](https://github.com/ALTAVII/github-readme-stats)
