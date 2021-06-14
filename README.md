@@ -1,9 +1,6 @@
 ### Salut, moi c'est ALTA 👋
 
-- 🔭 Je dev actuellement des scripts sur FiveM
-- Mes réseaux :
-- [Twitter](https://twitter.com/ALTA_VII)
-- ----
+- 💻 Je dev actuellement des scripts sur [FiveM](https://fivem.net/)
 
-[![ALTAVII's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALTAVII&show_icons=true&theme=tokyonight)](https://github.com/ALTAVII) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALTAVII&layout=compact&theme=tokyonight)](https://github.com/ALTAVII)
+
+[<img src="https://now-playing-mrpicos32.vercel.app/api/spotify-playing" alt="mrpicos32 Spotify Playing" width="350" />](https://open.spotify.com/user/mrpicos32)
